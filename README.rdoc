@@ -1,4 +1,4 @@
-= delta-flora
+= Delta Flora
 
 * http://github.com/michaelfeathers/delta-flora/
 
