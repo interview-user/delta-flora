@@ -8,10 +8,6 @@ describe Array do
     [1,2,3].sorted?.should be_true
   end
 
-  it 'detected not sorted' do
-    [1,20,3].sorted?.should be_false
-  end
-
   it 'reports an empty array as sorted' do
     [].sorted?.should be_true
   end
